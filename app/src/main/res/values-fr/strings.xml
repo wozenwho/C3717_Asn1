@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">C3711Á1</string>
+    <string name="intro_text">Veuillez entrer un numéro s\'il vous plaît!</string>
+    <string name="convert_button_string">CONVERTEZ-MOI</string>
+    <string name="activity_2_back_button">RETOURNER</string>
+    <string-array name="conversion_options">
+        <item>Hectares aux Acres</item>
+        <item>Acres aux Hectares</item>
+        <item>Hectares aux sqFeet</item>
+        <item>sqFeet aux Hectares</item>
+        <item>sqMetres aux sqFeet</item>
+        <item>sqFeet aux sqMetres</item>
+    </string-array>
+    <string name="title_activity_received">ReceivedActivity é</string>
+
+
+</resources>

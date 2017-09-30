@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">C3711A1</string>
+    <string name="intro_text">Please input a number and select a conversion rate!</string>
+    <string name="convert_button_string">Convert Me. DO IT. DO IT NOW. CONVERT NOW.</string>
+    <string name="activity_2_back_button">GO BACK. TAKE ME BACK.</string>
+    <string-array name="conversion_options">
+        <item>Hectares to Acres</item>
+        <item>Acres to Hectares</item>
+        <item>Hectares to sqFeet</item>
+        <item>sqFeet to Hectares</item>
+        <item>sqMetres to sqFeet</item>
+        <item>sqFeet to sqMetres</item>
+    </string-array>
+    <string name="title_activity_received">ReceivedActivity</string>
+
+
+</resources>
